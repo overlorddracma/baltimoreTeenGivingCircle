@@ -17,7 +17,7 @@ body {
 }
 .superset {
   width: 100%;
-  padding-bottom: 4px;
+  padding-bottom: 20px;
   background: rgb(0,74,173);
   background: linear-gradient(90deg, rgba(0,74,173,1) 0%, rgba(93,224,230,1) 100%);
 }
