@@ -31,6 +31,7 @@ body {
   border-bottom: 2px var(--purple) solid;
   color: var(--blue);
   position: fixed;
+  
 }
 .topnav div {
   display: flex;
